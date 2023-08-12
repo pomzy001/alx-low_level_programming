@@ -16,5 +16,5 @@ int main(void)
 		putchar(alp[i]);
 	}
 	putchar('\n');
-	return (0)7;
+	return (0);
 }

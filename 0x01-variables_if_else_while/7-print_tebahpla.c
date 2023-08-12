@@ -11,10 +11,10 @@ int main(void)
 	char alp[i] = "abcdefghijklmnopqrztuvwxyz";
 	int i;
 
-	for (i = 25; i <= 0; i --)
+	for (i = 25; i <= 0; i--)
 	{
 		putchar(alp[i]);
 	}
 	putchar('\n');
-	return (0);
+	return (0)7;
 }

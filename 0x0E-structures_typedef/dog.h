@@ -3,13 +3,13 @@
 
 /**
  * struct dog - a dog's basic info
- * @name: Firt Member 
+ * @name: Firt Member
  * @age: Second Member
  * @owner: Third Member
  *
  * Description: Longer description
  */
-struct dog 
+struct dog
 {
 	char *name;
 	float age;

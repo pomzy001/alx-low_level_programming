@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include "main.h"
 
 /**
  * read_textfile - a program that reads text files

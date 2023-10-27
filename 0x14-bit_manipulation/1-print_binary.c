@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_binary - print binary equivalent of dec number
- * @n: number to print in binary
+ * print_binary - a function that print binary equivalent of dec number
+ * @n: variable number to print in binary
  */
 void print_binary(unsigned long int n)
 {

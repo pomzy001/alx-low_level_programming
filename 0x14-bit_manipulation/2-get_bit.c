@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * get_bit - get the value of a bit
+ * get_bit - a function that get the value of a bit
  * at an index in a dec number
  * @n: number to search
  * @index: index of a bit
  *
- * Return: value of the bit
+ * Return: this return  value of the bit
  */
 int get_bit(unsigned long int n, unsigned int index)
 {

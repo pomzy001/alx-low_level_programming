@@ -3,7 +3,7 @@
 
 /**
  * _putchar - a function that writes char c to stout
- * @c: the Char to be printed
+ * @c: the Char variable to be printed
  *
  * Return: On sucess 1, On error -1
  * and erno is set appropriately
